@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: e1e18718ed82abf42881b737e81df66b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Wall_01_275
+    100004: Wall_01_276
+    100006: Wall_01_277
+    100008: Wall_01_278
+    100010: Wall_01_279
+    100012: Wall_01_280
+    100014: Wall_01_281
+    100016: Wall_01_282
+    100018: Wall_01_283
+    100020: Wall_01_285
+    100022: Wall_01_286
+    100024: Wall_01_287
+    100026: Wall_01_288
+    100028: Wall_01_289
+    100030: Wall_Spike_01_261
+    100032: Wall_Spike_01_262
+    100034: Wall_Spike_01_263
+    100036: Wall_Spike_01_264
+    100038: Wall_Spike_01_265
+    100040: Wall_Spike_01_266
+    400000: //RootNode
+    400002: Wall_01_275
+    400004: Wall_01_276
+    400006: Wall_01_277
+    400008: Wall_01_278
+    400010: Wall_01_279
+    400012: Wall_01_280
+    400014: Wall_01_281
+    400016: Wall_01_282
+    400018: Wall_01_283
+    400020: Wall_01_285
+    400022: Wall_01_286
+    400024: Wall_01_287
+    400026: Wall_01_288
+    400028: Wall_01_289
+    400030: Wall_Spike_01_261
+    400032: Wall_Spike_01_262
+    400034: Wall_Spike_01_263
+    400036: Wall_Spike_01_264
+    400038: Wall_Spike_01_265
+    400040: Wall_Spike_01_266
+    2100000: No Name
+    2300000: Wall_01_275
+    2300002: Wall_01_276
+    2300004: Wall_01_277
+    2300006: Wall_01_278
+    2300008: Wall_01_279
+    2300010: Wall_01_280
+    2300012: Wall_01_281
+    2300014: Wall_01_282
+    2300016: Wall_01_283
+    2300018: Wall_01_285
+    2300020: Wall_01_286
+    2300022: Wall_01_287
+    2300024: Wall_01_288
+    2300026: Wall_01_289
+    2300028: Wall_Spike_01_261
+    2300030: Wall_Spike_01_262
+    2300032: Wall_Spike_01_263
+    2300034: Wall_Spike_01_264
+    2300036: Wall_Spike_01_265
+    2300038: Wall_Spike_01_266
+    3300000: Wall_01_275
+    3300002: Wall_01_276
+    3300004: Wall_01_277
+    3300006: Wall_01_278
+    3300008: Wall_01_279
+    3300010: Wall_01_280
+    3300012: Wall_01_281
+    3300014: Wall_01_282
+    3300016: Wall_01_283
+    3300018: Wall_01_285
+    3300020: Wall_01_286
+    3300022: Wall_01_287
+    3300024: Wall_01_288
+    3300026: Wall_01_289
+    3300028: Wall_Spike_01_261
+    3300030: Wall_Spike_01_262
+    3300032: Wall_Spike_01_263
+    3300034: Wall_Spike_01_264
+    3300036: Wall_Spike_01_265
+    3300038: Wall_Spike_01_266
+    4300000: Wall_Spike_01_261
+    4300002: Wall_Spike_01_262
+    4300004: Wall_Spike_01_263
+    4300006: Wall_Spike_01_264
+    4300008: Wall_01_275
+    4300010: Wall_01_276
+    4300012: Wall_01_277
+    4300014: Wall_01_278
+    4300016: Wall_01_279
+    4300018: Wall_01_280
+    4300020: Wall_01_281
+    4300022: Wall_01_282
+    4300024: Wall_01_283
+    4300026: Wall_01_285
+    4300028: Wall_01_286
+    4300030: Wall_01_287
+    4300032: Wall_01_288
+    4300034: Wall_Spike_01_265
+    4300036: Wall_01_289
+    4300038: Wall_Spike_01_266
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
